@@ -19,19 +19,19 @@ public class Visitante {
 
 - Ao iniciar a aplicação:
 
-O visitante é recebido por Nathali, a guia virtual.
+- O visitante é recebido por Nathali, a guia virtual.
 
-O programa solicita o nome e a idade do visitante.
+- O programa solicita o nome e a idade do visitante.
 
 O visitante pode escolher entre 3 salas disponíveis:
 
-- Sala dos Fundadores
+1. Sala dos Fundadores
 
-- Sala das Versões
+2. Sala das Versões
 
-- Sala de Curiosidades
+3. Sala de Curiosidades
 
-- O visitante pode sair do museu digitando 0.
+4. O visitante pode sair do museu digitando 0.
 
 ### 🏛️ Salas Disponíveis
 
